@@ -1,0 +1,161 @@
+1510128482500	geckodriver	INFO	geckodriver 0.18.0
+1510128482508	geckodriver	INFO	Listening on 127.0.0.1:61654
+1510128484634	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510128488575	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510128489562	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22964] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22964] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510128495321	Marionette	INFO	Listening on port 61660
+1510128496310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510128496360	Marionette	DEBUG	Register listener.js for window 4294967297
+1510128496485	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510128496502	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510128496503	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510128504078	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/login.html"
+1510128504367	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/login.html"
+1510128506756	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510128507126	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.63:8080/login.html"
+1510128507150	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.63:8080/login.html"
+1510128507153	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.63:8080/login.html"
+1510128507218	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1510128507219	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1510128507219	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1510128507852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/"
+1510128507924	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/"
+1510128509258	Marionette	DEBUG	Received DOM event "popstate" for "http://192.168.1.63:8080/console.html#/start"
+1510128510409	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.63:8080/console.html#/start"
+1510128510450	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.63:8080/console.html#/start"
+1510128510453	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.63:8080/console.html#/start"
+1510128510513	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1510128510514	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1510128510515	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1510128512553	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/start"
+1510128512884	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/start"
+1510128514095	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510128521624	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510128523776	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.63:8080/console.html#/start"
+1510128523815	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.63:8080/console.html#/start"
+1510128523818	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.63:8080/console.html#/start"
+1510128523868	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1510128523869	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1510128523870	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1510128525700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/start"
+1510128526103	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/start"
+1510128526905	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510128529043	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.63:8080/console.html#/start"
+1510128529081	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.63:8080/console.html#/start"
+1510128529091	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.63:8080/console.html#/start"
+1510128529146	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1510128529147	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1510128529147	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1510128531782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/start"
+1510128531870	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/start"
+1510128532769	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510128535069	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510128535178	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.63:8080/console.html#/start"
+1510128535216	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.63:8080/console.html#/start"
+1510128535219	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.63:8080/console.html#/start"
+1510128535274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1510128535274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1510128535275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1510128539128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/start"
+1510128539471	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/start"
+1510128540310	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510128542728	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510128542875	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.63:8080/console.html#/start"
+1510128542945	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.63:8080/console.html#/start"
+1510128542949	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.63:8080/console.html#/start"
+1510128543012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1510128543013	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1510128543014	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1510128547678	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/start"
+1510128548006	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/start"
+1510128548897	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510128551330	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510128551626	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510128551744	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.63:8080/console.html#/start"
+1510128551786	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.63:8080/console.html#/start"
+1510128551790	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.63:8080/console.html#/start"
+1510128551844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1510128551844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1510128551845	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967347"
+1510128560549	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/start"
+1510128560887	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/start"
+1510128561679	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510128564063	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510128566094	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510128566208	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.63:8080/console.html#/start"
+1510128566250	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.63:8080/console.html#/start"
+1510128566255	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.63:8080/console.html#/start"
+1510128566310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967351"
+1510128566310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1510128566311	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1510128568608	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/start"
+1510128568955	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/start"
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14804] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+d/recv
+
+4460] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23136] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ status: 0, reason: error
+1510125813560	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r: Channel error: cannot send/recv
+
+annel error: cannot send/recv
+
+rror: cannot send/recv
+
+page load listener because no navigation has been detected
+1510118898551	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510118898700	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.63:8080/console.html#/start"
+1510118898748	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.63:8080/console.html#/start"
+1510118898750	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.63:8080/console.html#/start"
+1510118898815	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967365"
+1510118898815	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967367"
+1510118898816	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967368"
+1510118900036	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/start"
+1510118900379	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/start"
+1510118901203	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510118903585	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510118903899	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510118904063	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.63:8080/console.html#/start"
+1510118904101	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.63:8080/console.html#/start"
+1510118904104	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.63:8080/console.html#/start"
+1510118904183	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1510118904183	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967374"
+1510118904183	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967375"
+1510118905468	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/start"
+1510118905790	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/start"
+[Parent 7052] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+BUG	Received observer notification "outer-window-destroyed" for "4294967378"
+1510111243747	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967379"
+1510111245222	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/login.html"
+1510111245717	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/login.html"
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 24452] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15168] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 15168] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 15168] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15168] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510111428578	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1510111428583	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5612] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

@@ -1,0 +1,32 @@
+1509951174862	geckodriver	INFO	geckodriver 0.18.0
+1509951174872	geckodriver	INFO	Listening on 127.0.0.1:54762
+1509951177019	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509951177855	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509951178574	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12924] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12924] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509951181212	Marionette	INFO	Listening on port 54768
+1509951182271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509951182322	Marionette	DEBUG	Register listener.js for window 4294967297
+1509951182374	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509951182390	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509951182390	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509951185543	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/login.html"
+1509951185814	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/login.html"
+1509951188236	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509951188607	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.63:8080/login.html"
+1509951188630	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.63:8080/login.html"
+1509951188633	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.63:8080/login.html"
+1509951188699	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509951188699	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1509951188700	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1509951189375	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/"
+1509951189448	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/"
+1509951192466	Marionette	INFO	New connections will no longer be accepted
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 21356] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+a\Local\openvr\openvrpaths.vrpath
+[Child 9540] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+46

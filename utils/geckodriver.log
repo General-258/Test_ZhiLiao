@@ -1,0 +1,69 @@
+1510118544418	geckodriver	INFO	geckodriver 0.18.0
+1510118544456	geckodriver	INFO	Listening on 127.0.0.1:51703
+1510118546106	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510118547536	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510118548520	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3484] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3484] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510118562128	Marionette	INFO	Listening on port 51709
+1510118562520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510118562612	Marionette	DEBUG	Register listener.js for window 4294967297
+1510118562939	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510118563103	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510118563103	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510118568862	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/login.html"
+1510118569183	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/login.html"
+1510118571864	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510118572141	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.63:8080/login.html"
+1510118572162	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.63:8080/login.html"
+1510118572167	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.63:8080/login.html"
+1510118572301	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1510118572301	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1510118572301	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1510118572994	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/"
+1510118573204	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/"
+1510118575489	Marionette	DEBUG	Received DOM event "popstate" for "http://192.168.1.63:8080/console.html#/start"
+1510118577432	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510118580685	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510118581912	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18788] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18788] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8360] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 8360] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 8360] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510118596613	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2400FC,name=PContent::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+1510118596647	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ogin.jhtml?spm=2013.1.754894437.1.36cadcehyy0jw&f=top&redirectURL=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fspm%3Da21bz.7725273.1998564503.10.6d9e3c42yrlwL7%26id%3D558334379721%26umpChannel%3Dqianggou%26u_channel%3Dqianggou"
+JavaScript error: https://g.alicdn.com/vip/login/0.5.60/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+1510118051452	Marionette	DEBUG	Received DOM event "beforeunload" for "https://login.taobao.com/member/login.jhtml?spm=2013.1.754894437.1.36cadcehyy0jw&f=top&redirectURL=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fspm%3Da21bz.7725273.1998564503.10.6d9e3c42yrlwL7%26id%3D558334379721%26umpChannel%3Dqianggou%26u_channel%3Dqianggou"
+1510118051612	Marionette	DEBUG	Received DOM event "pagehide" for "https://login.taobao.com/member/login.jhtml?spm=2013.1.754894437.1.36cadcehyy0jw&f=top&redirectURL=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fspm%3Da21bz.7725273.1998564503.10.6d9e3c42yrlwL7%26id%3D558334379721%26umpChannel%3Dqianggou%26u_channel%3Dqianggou"
+1510118051616	Marionette	DEBUG	Received DOM event "unload" for "https://login.taobao.com/member/login.jhtml?spm=2013.1.754894437.1.36cadcehyy0jw&f=top&redirectURL=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fspm%3Da21bz.7725273.1998564503.10.6d9e3c42yrlwL7%26id%3D558334379721%26umpChannel%3Dqianggou%26u_channel%3Dqianggou"
+1510118051653	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1510118051768	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://login.taobao.com/member/login.jhtml?redirectURL=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fspm%3Da21bz.7725273.1998564503.10.6d9e3c42yrlwL7%26id%3D558334379721%26umpChannel%3Dqianggou%26u_channel%3Dqianggou"
+1510118051802	Marionette	DEBUG	Received DOM event "pageshow" for "https://login.taobao.com/member/login.jhtml?redirectURL=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fspm%3Da21bz.7725273.1998564503.10.6d9e3c42yrlwL7%26id%3D558334379721%26umpChannel%3Dqianggou%26u_channel%3Dqianggou"
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 20752] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://a.alipayobjects.com/jquery/jquery/1.9.1/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??event-min.js,anim-min.js,anim/base-min.js,anim/timer-min.js,anim/transition-min.js,base-min.js,attribute-min.js,node-min.js,cookie-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,xtemplate/runtime-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js,xtemplate-min.js,xtemplate/compiler-min.js, line 73: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??event-min.js,anim-min.js,anim/base-min.js,anim/timer-min.js,anim/transition-min.js,base-min.js,attribute-min.js,node-min.js,cookie-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,xtemplate/runtime-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js,xtemplate-min.js,xtemplate/compiler-min.js, line 87: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 20752] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15324] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 15324] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 23316] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
