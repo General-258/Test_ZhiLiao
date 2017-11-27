@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <all_data>
     <login>
-        <user username="17717564981" password="1234qwer">普通用户</user>
-        <user username="17717875281" password="1234qwer">会员</user>
-        <user username="username" password="1234qwer">母账户</user>
-        <user username="username" password="1234qwer">子账户</user>
+        <user username="123456789" password="123456">普通用户</user>
+        <user username="123456789" password="123456">会员</user>
+        <user username="username" password="123456">母账户</user>
+        <user username="username" password="123456">子账户</user>
     </login>
 </all_data>
