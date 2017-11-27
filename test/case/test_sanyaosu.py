@@ -5,7 +5,7 @@ from ..page.sanyaosuPage import SanYaoSuPage
 from selenium import webdriver
 sys.path.append("../utils")
 from utils.config import DATA_PATH, Config
-from utils.file_reader import ExcelReader
+from utils.yaml_reader import ExcelReader
 from utils.log import logger
 from utils import screenshot
 import time

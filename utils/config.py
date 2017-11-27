@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 import os
-from utils.file_reader import YamlReader
+from utils.yaml_reader import YamlReader
 
 #获取当前文件的绝对路径，其父目录就是该框架的根目录，然后可以通过根目录确定各层的绝对路径
 BASE_PATH = os.path.split(os.path.dirname(os.path.abspath(__file__)))[0]

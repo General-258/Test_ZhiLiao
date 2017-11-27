@@ -1,6 +1,6 @@
 Login_URL: http://192.168.1.63:8080/login.html
-Login_Test_Data: test_login_A.xlsx   #test_login_B.xlsx   test_login_A.xlsx
-SanYaoSu_Test_Data: test_sanyaosu_A.xlsx #test_sanyaosu_B.xlsx  test_sanyaosu_A.xlsx
+Test_Data: testdata.xml
+SanYaoSu_Test_Data: test_sanyaosu_A.xlsx
 log:
      file_name: test_zhi_liao.log
      backup: 5
