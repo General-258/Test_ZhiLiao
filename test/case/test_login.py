@@ -8,7 +8,6 @@ from utils.xml_reader import GetXMLTestData
 from utils.log import logger
 from utils import screenshot
 import os
-import time
 sys.path.append(os.path.abspath(os.path.dirname(__file__) + '/' + '..'))
 
 
