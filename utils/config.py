@@ -12,8 +12,8 @@ REPORT_PATH = os.path.join(BASE_PATH, 'report')
 
 class Config:
 	'''用于读取配置'''
-	def __init__(self, config=CONFIG_FILE):
-		self.config = YamlReader(config).data  #读取文件，列表形式返回
+	def __init__(self, config):
+		self.config = YamlReader(config).data  #读取配置文件，以列表的形式返回
 
 	def getconf(self, element, index=0):
 		'''

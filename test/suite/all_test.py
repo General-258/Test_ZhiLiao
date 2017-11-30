@@ -4,7 +4,7 @@ import unittest, doctest
 from test.case import test_login
 from utils.config import REPORT_PATH
 from utils import HTMLTestRunnerCN
-import time
+import time, logging
 suite = doctest.DocTestSuite()
 suite.addTest(unittest.makeSuite(test_login.loginTest))
 

@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0130b704-70ef-4c12-ac64-afeafc15f60a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/utils/excel_reader.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/utils/testalert.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/case/test_login.py" afterPath="$PROJECT_DIR$/test/case/test_login.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/common/driver.py" afterPath="$PROJECT_DIR$/test/common/driver.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/logtest_zhi_liao.log" afterPath="$PROJECT_DIR$/log/logtest_zhi_liao.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/suite/all_test.py" afterPath="$PROJECT_DIR$/test/suite/all_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/suite/geckodriver.log" afterPath="$PROJECT_DIR$/test/suite/geckodriver.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/config.py" afterPath="$PROJECT_DIR$/utils/config.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/yaml_reader.py" afterPath="$PROJECT_DIR$/utils/yaml_reader.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="driver.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="driver.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/common/driver.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="588">
@@ -23,6 +29,70 @@
               <folding>
                 <element signature="e#22#52#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadMe.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+              <folding>
+                <element signature="e#23#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assertion.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/assertion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yaml_reader.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utils/yaml_reader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/suite/all_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding>
+                <element signature="e#82#106#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/case/test_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -41,11 +111,9 @@
         <option value="$PROJECT_DIR$/test/case/all_test.py" />
         <option value="$PROJECT_DIR$/test/__init__.py" />
         <option value="$PROJECT_DIR$/test/case/test_testligon.py" />
-        <option value="$PROJECT_DIR$/utils/config.py" />
         <option value="$PROJECT_DIR$/utils/HTMLTestRunner.py" />
         <option value="$PROJECT_DIR$/utils/HTMLTestRunnerCN.py" />
         <option value="$PROJECT_DIR$/utils/log.py" />
-        <option value="$PROJECT_DIR$/test/suite/all_test.py" />
         <option value="$PROJECT_DIR$/utils/screenshot.py" />
         <option value="$PROJECT_DIR$/test/case/faQiBeiDiao_sta.py" />
         <option value="$PROJECT_DIR$/test/page/xuanzeshujuPage.py" />
@@ -55,7 +123,6 @@
         <option value="$PROJECT_DIR$/test/case/test_sanyaosu.py" />
         <option value="$PROJECT_DIR$/test/case/test_xuanzeshuju.py" />
         <option value="$PROJECT_DIR$/utils/taobao.py" />
-        <option value="$PROJECT_DIR$/utils/yaml_reader.py" />
         <option value="$PROJECT_DIR$/utils/excel_reader.py" />
         <option value="$PROJECT_DIR$/utils/xml_reader.py" />
         <option value="$PROJECT_DIR$/ReadMe.md" />
@@ -63,6 +130,9 @@
         <option value="$PROJECT_DIR$/data/testdata.xml" />
         <option value="$PROJECT_DIR$/test/case/test_login.py" />
         <option value="$PROJECT_DIR$/test/common/driver.py" />
+        <option value="$PROJECT_DIR$/test/suite/all_test.py" />
+        <option value="$PROJECT_DIR$/utils/config.py" />
+        <option value="$PROJECT_DIR$/utils/yaml_reader.py" />
       </list>
     </option>
   </component>
@@ -114,6 +184,11 @@
             <path>
               <item name="Test_ZhiLiao" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test_ZhiLiao" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test_ZhiLiao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test_ZhiLiao" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -140,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_login.py">
+  <component name="RunManager" selected="Python.all_test">
     <configuration name="TestDelBlackList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,6 +261,23 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test/case/test_sanyaosu.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration name="all_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/suite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Test_ZhiLiao" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/suite/all_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="sanyaosuPage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,37 +295,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="testalert" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Test_ZhiLiao" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/testalert.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_sanyaosu.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python.testalert" />
-      <item index="2" class="java.lang.String" itemvalue="Python.TestDelBlackList" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sanyaosuPage" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_login.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python.TestDelBlackList" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sanyaosuPage" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_login.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python.all_test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_login.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_sanyaosu.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python.TestDelBlackList" />
-        <item index="3" class="java.lang.String" itemvalue="Python.sanyaosuPage" />
-        <item index="4" class="java.lang.String" itemvalue="Python.testalert" />
+        <item index="0" class="java.lang.String" itemvalue="Python.all_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_login.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_sanyaosu.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TestDelBlackList" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sanyaosuPage" />
       </list>
     </recent_temporary>
   </component>
@@ -248,17 +323,25 @@
       <option name="presentableId" value="Default" />
       <updated>1509525616426</updated>
     </task>
+    <task id="LOCAL-00001" summary="封装了浏览器启动方法">
+      <created>1512012712090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1512012712090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_login_py - 2017.11.27 at 15h 28m 22s.xml">
+    <history-entry file="Unittests_in_test_login_py - 2017.11.30 at 11h 40m 45s.xml">
       <configuration name="Unittests in test_login.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_login_py - 2017.11.27 at 15h 30m 46s.xml">
+    <history-entry file="Unittests_in_test_login_py - 2017.11.30 at 13h 31m 14s.xml">
       <configuration name="Unittests in test_login.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_sanyaosu_py - 2017.11.08 at 15h 21m 07s.xml">
-      <configuration name="Unittests in test_sanyaosu.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_login_py - 2017.11.30 at 13h 44m 55s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_test_sanyaosu_py - 2017.11.08 at 15h 24m 37s.xml">
       <configuration name="Unittests in test_sanyaosu.py" configurationId="tests" />
@@ -284,29 +367,34 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19765739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19765739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33552632" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33552632" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12828948" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="封装了浏览器启动方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="封装了浏览器启动方法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -385,13 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geckodriver.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -431,13 +512,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/case/test_testligon.py" />
-    <entry file="file://$PROJECT_DIR$/test/suite/all_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/page/workBenchPage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -481,13 +555,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/testalert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="64" lean-forward="false" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/case/faQiBeiDiao_sta.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1204">
@@ -527,20 +594,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/taobao.py" />
-    <entry file="file://$PROJECT_DIR$/utils/assertion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/yaml_reader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/page/basePage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -585,13 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/case/test_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utils/excel_reader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -613,17 +659,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/config.py">
+    <entry file="file://$PROJECT_DIR$/test/case/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadMe.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        <state relative-caret-position="119">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -634,6 +674,66 @@
           <folding>
             <element signature="e#22#52#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3175">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/suite/all_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <element signature="e#82#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/testalert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="27" column="64" lean-forward="false" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/assertion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/yaml_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>

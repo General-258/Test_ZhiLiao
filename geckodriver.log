@@ -1,21 +1,22 @@
-1511767793249	geckodriver	INFO	geckodriver 0.18.0
-1511767793262	geckodriver	INFO	Listening on 127.0.0.1:55302
-1511767795272	geckodriver::marionette	INFO	Starting browser C:\Program Files\Firefox Developer Edition\firefox.exe with args ["-marionette"]
-1511767797342	Marionette	INFO	Enabled via --marionette
-1511767800755	Marionette	INFO	Listening on port 55308
-1511767801015	Marionette	WARN	TLS certificate errors will be ignored for this session
-1511767801099	Marionette	DEBUG	Register listener.js for window 4294967297
-1511767801125	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
-1511767801143	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
-1511767810313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/login.html"
-1511767810879	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/login.html"
-1511767813172	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
-1511767813503	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.63:8080/login.html"
-1511767813534	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.63:8080/login.html"
-1511767813534	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.63:8080/login.html"
-1511767813606	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
-1511767813607	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
-1511767813607	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1512020673323	geckodriver	INFO	geckodriver 0.18.0
+1512020673331	geckodriver	INFO	Listening on 127.0.0.1:61933
+1512020675180	geckodriver::marionette	INFO	Starting browser C:\Program Files\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1512020677027	Marionette	INFO	Enabled via --marionette
+1512020685165	Marionette	INFO	Listening on port 61939
+1512020685185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512020685302	Marionette	DEBUG	Register listener.js for window 4294967297
+1512020685518	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512020685557	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512020689151	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/login.html"
+1512020689605	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/login.html"
+1512020691905	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512020693190	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+ette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512020667552	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/login.html"
+1512020668168	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/login.html"
+1512020670544	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512020671270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+ification "outer-window-destroyed" for "4294967305"
 1511767814102	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/"
 1511767814176	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/"
 Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath

@@ -8,7 +8,7 @@ class YamlReader:
         if os.path.exists(yamlf):
             self.yamlf = yamlf
         else:
-            raise OSError('文件不存在！')
+            raise IOError('文件名不存在')
         self._data = None
 
     @property
