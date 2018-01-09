@@ -1,33 +1,38 @@
-1512020673323	geckodriver	INFO	geckodriver 0.18.0
-1512020673331	geckodriver	INFO	Listening on 127.0.0.1:61933
-1512020675180	geckodriver::marionette	INFO	Starting browser C:\Program Files\Firefox Developer Edition\firefox.exe with args ["-marionette"]
-1512020677027	Marionette	INFO	Enabled via --marionette
-1512020685165	Marionette	INFO	Listening on port 61939
-1512020685185	Marionette	WARN	TLS certificate errors will be ignored for this session
-1512020685302	Marionette	DEBUG	Register listener.js for window 4294967297
-1512020685518	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
-1512020685557	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
-1512020689151	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/login.html"
-1512020689605	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/login.html"
-1512020691905	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
-1512020693190	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
-ette	DEBUG	Received DOM event "pagehide" for "about:blank"
-1512020667552	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/login.html"
-1512020668168	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/login.html"
-1512020670544	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
-1512020671270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
-ification "outer-window-destroyed" for "4294967305"
-1511767814102	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/"
-1511767814176	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/"
+1515486887620	geckodriver	INFO	geckodriver 0.18.0
+1515486887647	geckodriver	INFO	Listening on 127.0.0.1:64383
+1515486889550	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1515486898801	Marionette	INFO	Enabled via --marionette
 Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
-[Child 15452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-fication "outer-window-destroyed" for "4294967303"
-1511767759553	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
-1511767760367	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.63:8080/console.html#/"
-1511767760479	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.63:8080/console.html#/"
-192.168.1.63:8080/login.html"
-1510128507150	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.63:8080/login.html"
-1510128507153	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.63:8080/login.html"
+[Child 6944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515486907145	Marionette	INFO	Listening on port 64389
+1515486907657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515486907829	Marionette	DEBUG	Register listener.js for window 4294967297
+1515486908711	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515486908868	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515486908869	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515486909943	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://test.ewezx.com/login"
+1515486910694	Marionette	DEBUG	Received DOM event "pageshow" for "https://test.ewezx.com/login"
+1515486913386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+15452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\General\AppData\Local\openvr\openvrpaths.vrpath
+gistration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to stat
 1510128507218	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
 1510128507219	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
 1510128507219	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"

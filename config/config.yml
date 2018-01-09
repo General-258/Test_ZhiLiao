@@ -1,4 +1,4 @@
-Login_URL: http://192.168.1.63:8080/login.html
+Login_URL: https://test.ewezx.com/login
 Test_Data: testdata.xml
 SanYaoSu_Test_Data: test_sanyaosu_A.xlsx
 log:
